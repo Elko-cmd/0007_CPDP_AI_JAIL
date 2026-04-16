@@ -38,7 +38,7 @@ From somewhere behind the wall — I'm not sure which direction — I hear it. V
 
 Freiheit. Freiheit ist die einzige, die fehlt.
 
-The word passes through the concrete as if it weren't there. No algorithm flags it. No profile is updated. It just moves — through the wall, through the fence, through the bars I was dragging my stick along — and arrives here, where I am standing, on the side that is supposed to be free.
+The words pass through the concrete as if it weren't there. No algorithm flags them. No profile is updated. They just move — through the wall, through the fence, through the bars I was dragging my stick along — and find me here, where I am standing, on the side that is supposed to be free.
 
 # Sources — AI & Prisons Chapter
 

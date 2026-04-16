@@ -17,7 +17,7 @@ The narrator's phone vibrates, pulling them out of the garden and into the scree
 ### Themes:
 algorithmic enclosure by invitation, social media dependency (Abhängigkeit), the conversation as wall, intimacy as data extraction, the Schleuse without a gate.
 ## Content
-I am sitting on a bench, across from the wall. Somewhere behind me, children are playing. My phone makes a sound. A small, bright tone — almost nothing. I look towards the screen. It unlocks. Showing me where I left off.
+I am sitting on a bench, across from the wall. Somewhere behind me, children are playing. My phone makes a sound. A small, bright tone — almost nothing. It arrives the way sounds do — without asking. I look towards the screen. It unlocks. Showing me where I left off.
 
 I didn't ask it to remember. The last thing I read, the last thing I liked, the last thing I lingered on three seconds longer than the thing before it. It knows where I paused. It remembers where I scrolled past. There has been a collection of my hesitation recorded.
 
