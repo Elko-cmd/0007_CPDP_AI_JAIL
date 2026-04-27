@@ -15,6 +15,8 @@ I'm sitting on a red bench in our garden. It's springtime and the first rays of 
 
 Not more than 50 meters from where I'm sitting, the wall starts. A wall made of brick and concrete, crowned by barbed wire that catches the sunlight and throws it back. It is not an ugly wall. It is the kind of wall you won't notice until you try to look past it.
 
+I have never felt unsafe in this garden.
+
 Every day I watch trucks and buses entering the complex. Some bring food. Some bring materials — wire, metal, plastic. Some bring machines. Some bring people.
 
 The staff arrive in shifts. I have come to recognise some of them by their walk, their car, the time they appear. A woman in a dark jacket who always parks on the left. A man who stops at the gate and checks his phone before going in. They carry bags. They have keys. They pass through the wall and come back out again, every day, the same rhythm, like the bumblebees and their routes through the hazelnut.

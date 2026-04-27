@@ -43,11 +43,9 @@ Someone came out. A reference number for me. My request had been registered. I w
 
 I asked: what will I get back? They said: whatever is held. I asked: how will I know if it's everything? 
 
-I walked out through the glass doors. The reference number was in my pocket, folded once.
-
+The system had worked, in its way. Someone had listened, noted my request, given me a number. It was more than most people get. I just couldn't shake the feeling that I had given more than I had received.
 
 ## Sources
-
 ### GDPR Article 15 — Right of access by the data subject
 https://gdpr-info.eu/art-15-gdpr/
 
