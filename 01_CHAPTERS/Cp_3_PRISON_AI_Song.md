@@ -28,7 +28,7 @@ A company in Amsterdam sells software that scans live surveillance feeds inside 
 Finland. People in custody there are given data labelling tasks — classifying information to train AI models for a private construction company. €4.62 a day. The work is ordinary, repetitive, the kind of task that requires just enough attention to be exhausting and not enough to be interesting. But the output doesn't stay ordinary. It goes into a model. The model improves. The model gets deployed. The sentence ends. The model doesn't. 
 Somewhere, a system is running that learned something from a person in a cell, and it will go on running long after that person has been released, long after anyone remembers where the training data came from.
 
-The map precedes the territory. Baudrillard wrote that — the moment when the model of a thing becomes more real than the thing itself. Risk scores. Behavioral profiles. A person reduced to the pattern they are predicted to fit. By the time someone contests the profile, the profile has already made its decisions. The copy doesn't wait for the original.
+<!-- The map precedes the territory. Baudrillard wrote that — the moment when the model of a thing becomes more real than the thing itself. Risk scores. Behavioral profiles. A person reduced to the pattern they are predicted to fit. By the time someone contests the profile, the profile has already made its decisions. The copy doesn't wait for the original. -->
 
 The stick reaches the end of the fence. The sound stops.
 
