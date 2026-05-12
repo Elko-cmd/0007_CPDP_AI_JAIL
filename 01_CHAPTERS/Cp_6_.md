@@ -23,6 +23,8 @@ How many of your friends use drugs?
 
 Do you agree or disagree: a hungry person has a right to steal.
 
+None of them concerned anyone you had harmed. The system was not built to ask.
+
 You were not told which answers would be weighted. You were not told how the weighting worked. The company that built the tool considers the formula proprietary. Your lawyer was not told either.
 
 Based on your answers and your record, a score was generated. The score was a number between one and ten. One meant low risk. Ten meant high risk. Your score was read into the court record before sentencing.
@@ -33,17 +35,17 @@ You were sentenced.
 
 You didn't commit a new crime. Two years passed. You stayed out of their way. You said that in an interview, later — I try to stay out of their way. Not because you had done something. Because the number existed. Because somewhere, in a file, a system had already decided.
 
-The number doesn't update.
+The number stays in the file.
 
 A man tried to challenge his. He said: I have a right to know how this was calculated. I have a right to understand the evidence used against me. The court said: you were given the number. That's enough. The formula is proprietary.
 
-Studies later showed the formula scored Black defendants as high-risk nearly twice as often as white defendants with comparable records. The company disputed the findings. The formula remained proprietary.
+Studies later showed the formula scored Black defendants as high-risk nearly twice as often as white defendants with comparable records. The company disputed the findings. The formula remained closed.
 
-He said: how do I argue with something I can't see?
+He said: how do I contest something I can't see?
 
-The court didn't answer that.
+The court didn't answer.
 
-You filled in the form. You answered the questions. You did not know which ones would follow you. You thought it was a questionnaire. It was a profile. Profiles do not expire.
+You filled in the form. You answered the questions. You did not know which ones would follow you. You thought it was a questionnaire. It was a profile. It is still being read aloud.
 
 ## Sources
 

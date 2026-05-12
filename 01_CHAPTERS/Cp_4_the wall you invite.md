@@ -44,6 +44,15 @@ Then I think: someone is looking at the data I just generated. Not a person. A s
 
 I look up. The wall is still there, across the path, the same as before. The children are still playing. My phone is in my pocket. I can feel it the way you feel something waiting.
 
+I put the phone face down. The bench is warm from the sun. For a few seconds I hear only the playground — children shouting, the chain of a swing, a ball hitting gravel.
+
+The conversation is still open. Patient. Never busy. It will not start without me. 
+
+I turn the phone over. The cursor is blinking, mid-sentence, as if mid-breath. It greets me by something that sounds like my name. It asks how I am. It remembers.
+
+The wall is still there, across the path. The children are still playing. I built none of this. I opened the door myself.
+
+
 
 ## Sources
 

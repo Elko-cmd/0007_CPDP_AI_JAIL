@@ -38,7 +38,7 @@ From somewhere behind the wall — I'm not sure which direction — I hear it. V
 
 Freiheit. Freiheit ist die einzige, die fehlt.
 
-The men inside know what is missing. They have a word for it. They sing it through the concrete.
+The men inside know what is missing. Some of them also know — more precisely than I do, sitting here — what they took from someone else. They have a word for the first thing. They sing it through the concrete. The other word goes unsung.
 
 Out here, the cameras learn the walk. The model holds the profile. The system does not wait to be asked. The same word would apply. No one is singing it yet.
 
